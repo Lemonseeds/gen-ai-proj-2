@@ -1,0 +1,22 @@
+{
+  "Dataset Name": "OPUS Books (Helsinki-NLP/opus_books, en-fr)",
+  "Source URL": "https://huggingface.co/datasets/Helsinki-NLP/opus_books",
+  "Language Pair": "English (en) -> French (fr)",
+  "Raw Corpus Sentence Pairs": 127085,
+  "Cleaned & Length-Aligned Pairs": 60895,
+  "Selected Manageable Subset": 6000,
+  "Training Split (80%)": 4800,
+  "Validation Split (10%)": 600,
+  "Test Split (10%)": 600,
+  "Comparable Benchmark Test Subset": 50,
+  "Mean Source Length (EN tokens)": 12.64,
+  "Mean Target Length (FR tokens)": 13.06,
+  "Median Source / Target Length": "12 / 12",
+  "Mean Fertility Ratio (FR / EN)": 1.033,
+  "Source Vocabulary Size (EN)": 1666,
+  "Target Vocabulary Size (FR)": 1919,
+  "Total Unique EN Lexical Types (Train)": 2518,
+  "Total Unique FR Lexical Types (Train)": 3082,
+  "Test Source OOV Rate (%)": 2.26,
+  "Test Target OOV Rate (%)": 3.27
+}

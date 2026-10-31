@@ -1,0 +1,17 @@
+Model,Temperature,BLEU,chrF,Distinct_1,Distinct_2,Repetition_Rate,Length_Ratio,Sample_Translation
+Basic Transformer,0.0,1.46,14.95,0.4031,0.7059,0.0259,0.974,Je ne sais pas ce que je lui ai dit.
+mT5-Small,0.0,0.76,10.79,0.2931,0.5,0.0067,0.982,-- Je ne suis pas à tout ce que cela.
+LLaMA-135M,0.0,0.66,16.66,0.5455,0.8115,0.0,1.03,"Je m'appelle ceux qui nous avons également désolé, et je vais rien de m"
+Gemma-3-270M,0.0,10.79,36.37,0.6016,0.9237,0.0292,0.961,Je n'ai pas été à l'aise avec ce langage comme ça.
+Basic Transformer,0.3,2.92,16.79,0.4077,0.7083,0.0164,0.986,Je ne sais pas ce que je lui ai dit.
+mT5-Small,0.3,2.04,11.78,0.337,0.622,0.0,0.784,-- Je ne suis pas de la faute.
+LLaMA-135M,0.3,1.25,15.84,0.5478,0.819,0.0,0.896,J'ai fait une nouvelle phrase pour ce que je suis désolé.
+Gemma-3-270M,0.3,8.14,28.46,0.5938,0.9068,0.0222,1.066,Je n'ai pas été à l'aise avec ce langage.
+Basic Transformer,0.7,1.22,15.03,0.5154,0.9,0.0,1.015,Je ne suis pas si nous l'avons trop tard.
+mT5-Small,0.7,0.73,12.28,0.3967,0.7477,0.0157,0.955,-- Je ne suis pas une idée de ce que de ce qu'il n'écria pas à cette commune.
+LLaMA-135M,0.7,0.64,14.81,0.629,0.9035,0.0063,0.94,C'est une généralité non végétale qui nous ait de mieux besoin d'ê
+Gemma-3-270M,0.7,6.52,30.18,0.5969,0.9328,0.0167,1.009,Je n'ai pas été à l'aise avec ce nouveau langage.
+Basic Transformer,1.2,0.57,17.39,0.6585,0.974,0.0,1.303,J'ai besoin de moi si ça me semblait en bas.
+mT5-Small,1.2,0.69,9.63,0.5909,0.9487,0.0,0.665,-- Oui ne croisi que ce veux ce s'écria mon enfant.
+LLaMA-135M,1.2,0.98,16.88,0.7368,0.9919,0.0,1.04,N'es pas les expressions que je s'assure désorminent en lait de mon idéologie.
+Gemma-3-270M,1.2,2.21,24.14,0.6358,0.9408,0.0354,1.317,"Il n'y a pas de nouvelles sensations, comme si quelque chose avait été changé."

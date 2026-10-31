@@ -1,0 +1,5 @@
+Model,Method,Train_Time_s,Inference_Time_s,BLEU,chrF
+LLaMA-135M (LlamaForCausalLM),3-Shot In-Context Prompting (0 Trainable Params),0.0,16.96,0.5,14.25
+LLaMA-135M (LlamaForCausalLM),"LoRA Fine-Tuned (r=8, alpha=16)",21.38,17.96,0.31,14.32
+Gemma-3-270M (Gemma3ForCausalLM),3-Shot In-Context Prompting (0 Trainable Params),0.0,18.84,12.24,32.84
+Gemma-3-270M (Gemma3ForCausalLM),"LoRA Fine-Tuned (r=8, alpha=16)",40.38,18.76,8.76,28.74

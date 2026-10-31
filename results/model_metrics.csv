@@ -1,0 +1,5 @@
+Model,Variant,Architecture,Adaptation,Tokenizer,Total_Params,Trainable_Params,Trainable_Pct,Train_Time_s,Inference_Time_s,Latency_ms_per_sent,BLEU,chrF,BLEU_1,BLEU_4,Length_Ratio,Distinct_2
+Basic Transformer,Custom 6-Layer Seq2Seq,Encoder-Decoder,Trained from Scratch,Word+Punct (1666/1919),2544767,2544767,100.0,226.5,1.13,37.6,0.91,17.34,21.36,0.08,1.047,0.4753
+mT5-Small,google/mt5-small,Encoder-Decoder,Seq2Seq Fine-Tuning,"SentencePiece (250,112)",300176768,30917312,10.3,125.12,2.46,82.1,1.16,13.03,23.53,0.27,0.929,0.4129
+LLaMA-135M,LlamaForCausalLM (SmolLM2-135M),Decoder-Only,LoRA Fine-Tuning + Prompting,"BPE (49,152)",134515008,15360,0.01,21.38,17.96,598.7,0.31,14.32,14.97,0.05,0.944,0.6847
+Gemma-3-270M,Gemma3ForCausalLM (gemma-3-270m-it),Decoder-Only,LoRA + Few-Shot Prompting,"SentencePiece (262,144)",268098176,20480,0.01,40.38,18.76,625.2,12.24,32.84,38.1,4.87,0.96,0.9109
